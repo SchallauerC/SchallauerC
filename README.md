@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @SchallauerC
+- 👀 I’m interested in Philosophy, Politics, History, Sports, Weight Lifting, Cryptocurrencies
+- 🌱 I’m currently learning Python.
